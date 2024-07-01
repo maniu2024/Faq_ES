@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false" confirmBeforeUploading="false">
+    <option name="confirmBeforeUploading" value="false" />
+    <serverData>
+      <paths name="root@120.224.26.32:12632 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/FAQBot" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@120.224.26.32:22312 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/FAQBot" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@lyg.blockelite.cn:16224 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/FAQBot" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@lyg.blockelite.cn:20820 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/FAQBot" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
